@@ -1,0 +1,33 @@
+## Cálculo 2
+- Prof. João Ricardo
+- **Pré-requisitos:**
+	- Cálculo 1;
+	- EM;
+- **Objetivos da disciplina:**
+	- Desenvolver os conceitos relacionados à Integral;
+	- Técnicas de integração;
+	- Aplicações envolvendo integrais;
+	- Apresentar as Funções de Várias Variáveis e suas aplicações;
+- **Cronograma:**
+	- Revisão de Derivada
+	- Integral:
+		- Antiderivada;
+		- Regras e técnicas de Integração;
+		- Integral Indefinida e Aplicação
+		- Área de Região Plana;
+		- Outras Aplicações;
+	- Funções de Várias Variáveis
+		- Definição e exemplos;
+		- Domínio, Gráfico e Imagem;
+		- Curvas de Nível;
+		- Limites (\*);
+		- Derivadas Parciais;
+		- Aplicações;
+- **Avaliações:**
+	- 3 avaliações de 25 pontos;
+	- 25 pontos a critério do professor;
+		- KHAN ACADEMY
+		- Atividades Presenciais
+		- ADA (Caso ocorra)
+	- **Bibliografia:**
+		- Stewart (vols. 1 e 2);

@@ -1,0 +1,25 @@
+### C. Dados
+- Ciência de Dados geralmente gera hipóteses, não as comprova.
+	- A comprovação se dá pelo funcionamento do modelo.
+	- Gera regras, que individualmente, geralmente, não são testadas usando a amostra, pode ser que a maioria das regras estão erradas, mas algumas delas puxam a média de acerto para cima.
+		- Comprovação individual de hipóteses não é explorada o suficiente.
+### Frequência Dos Dados
+- Pressão Alta 23k
+- Diabetes 7k
+- Colesterol Alto 13k
+- Cardíacos 5k
+	- P. Alta, Diabetes, Colesterol.
+- AVC 1,9k
+	- P. Alta, Diabetes, Colesterol.
+- Asma 4k
+	- É frequente que a pessoa só tenha tido na infância.
+- Artrite 7k
+	- Engloba muitas doenças.
+- DORT 4
+- Depressão 8k
+	- Relacionar com outras mentais, categorias mentais.
+- Outras Mentais 5k
+- 1,2 DPOC
+- Câncer 2,3k
+- Rins 1,2k
+	- Diabetes.

@@ -1,0 +1,2 @@
+- QuickSort Parcial
+	- É realmente inteligente o quickSort parcial, outro método não faria mais sentido nesse caso?

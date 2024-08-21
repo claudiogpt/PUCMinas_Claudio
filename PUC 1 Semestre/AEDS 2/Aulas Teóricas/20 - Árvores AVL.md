@@ -1,0 +1,7 @@
+- Se autocorrigem se o Fator de um nó > +-2
+- Fator 2 - Rotação Oposta
+	- Rotação á E ou DE
+	- Se o valor for invertido: Rotação Dupla
+- Fator -2 - Rotação Oposta
+	- Rotação á D ou ED
+	- Se o valor for invertido: Rotação Dupla

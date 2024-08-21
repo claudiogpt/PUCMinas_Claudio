@@ -1,0 +1,3 @@
+- Útil quando temos memória principal em abundância.
+- Método mais rápido.
+- Não é in-place. (Dobra a quantidade de memória necessária).
