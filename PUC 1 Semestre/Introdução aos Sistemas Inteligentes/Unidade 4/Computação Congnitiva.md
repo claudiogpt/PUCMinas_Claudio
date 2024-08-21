@@ -34,5 +34,3 @@
 	- Aprende por reforço, não só com exemplos, a partir do ambiente
 - Iterativos (stateful)
 	- Tem que armazenar estados (histórico do ambiente ou estados internos)
-- Contextuais
-	- 

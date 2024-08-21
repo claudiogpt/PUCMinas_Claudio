@@ -1,5 +1,3 @@
-### $\frac{\pi}{3}$ ou 60graus
-
 1. **Seno**:
    $$
    \sin\left(\frac{\pi}{3}\right) = \frac{\sqrt{3}}{2}
@@ -29,5 +27,7 @@
    $$
    \csc\left(\frac{\pi}{3}\right) = \frac{2}{\sqrt{3}} = \frac{2\sqrt{3}}{3}
    $$
-
-### $\frac{\pi}{6}$ ou 30graus 
+## Conversão Graus Radianos
+#### $\frac{\pi}{6}$ = 30graus 
+#### $\frac{\pi}{3}$ = 60graus 
+#### ${\pi}$ = 180graud 
